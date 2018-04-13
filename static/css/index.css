@@ -1,0 +1,15 @@
+* {
+    background-color: yellow;
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+h1 {
+    font-family: 'VT323', monospace;
+    font-size: 22px;
+}
+
+form {
+    text-align: left;
+}
