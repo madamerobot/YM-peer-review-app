@@ -1,0 +1,36 @@
+{
+  "name": "ym-peer-review-app",
+  "version": "1.0.0",
+  "description": "Peer Reviews for YM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/madamerobot/YM-peer-review-app.git"
+  },
+  "author": "Valerie Fuchs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/madamerobot/YM-peer-review-app/issues"
+  },
+  "homepage": "https://github.com/madamerobot/YM-peer-review-app#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "dotenv": "^5.0.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-util": "^3.0.8",
+    "koa": "^2.5.0",
+    "koa-body": "^2.5.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4",
+    "nodemon": "^1.17.3",
+    "nunjucks": "^3.1.2",
+    "watchify": "^3.11.0"
+  }
+}
